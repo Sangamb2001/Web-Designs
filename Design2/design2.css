@@ -20,6 +20,7 @@
     display: inline-block;
 }
 .navbar ul li a{ 
+    color: #000;
     text-decoration: none;
     font-weight: bold;
     margin-right: 5vw;
